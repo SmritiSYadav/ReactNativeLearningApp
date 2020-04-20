@@ -1,0 +1,80 @@
+{
+   "data": 
+      [
+         {
+            "title": "New",
+            "data": [ 
+               {
+                  "id":"1",
+                  "name": "Veronica Mikkelson",
+                  "title":"Power plug is not working. Please Fix.",
+                  "subject":"veronicamikkelson@in.ibm.com",
+                  "date":"1:21 PM",
+                  "fullDate": "13 September 2019 • 1:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": true
+               }
+            ]
+         },
+         {
+            "title": "In-Progress",
+            "data": [ 
+               {
+                  "id":"2",
+                  "name": "Smriti Yadav",
+                  "title":"Printer is not working. Please fix.",
+                  "subject":"smryadav@in.ibm.com",
+                  "date":"2:21 PM",
+                  "fullDate": "13 September 2019 • 2:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": false
+               },
+               {
+                  "id":"3",
+                  "name": "Disha Awasti",
+                  "title":"Office desk in meeting room is broken. Kindly Fix.",
+                  "subject":"disawat1@in.ibm.com",
+                  "date":"3:21 PM",
+                  "fullDate": "13 September 2019 • 3:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": true
+               }
+            ]
+         },
+         {
+            "title": "Completed",
+            "data": [ 
+               {
+                  "id":"4",
+                  "name": "Priya Pethe",
+                  "title":"Office desk in meeting room is broken. Kindly Fix.",
+                  "subject":"priyapethe@in.ibm.com",
+                  "date":"4:21 PM",
+                  "fullDate": "13 September 2019 • 4:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": true
+               },
+               {
+                  "id":"5",
+                  "name": "Parminder Rana",
+                  "title":"Office desk in meeting room is broken. Kindly Fix.",
+                  "subject":"parmikum@in.ibm.com",
+                  "date":"5:21 PM",
+                  "fullDate": "13 September 2019 • 5:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": false
+               },
+               {
+                  "id":"6",
+                  "name": "Akash Kesarwani",
+                  "title":"Office desk in meeting room is broken. Kindly Fix.",
+                  "subject":"akakum@in.ibm.com",
+                  "date":"6:21 PM",
+                  "fullDate": "13 September 2019 • 6:21pm",
+                  "description":"Lorem ipsum dolor sit amet, ne minim quodsi usu, sit ut velit verear percipit.",
+                  "isRead": true
+               }
+            ]
+         }
+      ]
+}
